@@ -6,6 +6,8 @@ Sticky navbar    : Easy access to sections while scrolling.
 Course details   : Overview of what you'll learn.
 Instructor info  : Learn about your instructor.
 
+Appplication which is used visual studio code.
+
 
 How to use
 

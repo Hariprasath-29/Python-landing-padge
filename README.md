@@ -13,7 +13,10 @@ How to use:
 
 1)Open index.html in your browser.
 2)Explore the sections
-3)Click "Enroll now" to sign up.
+3)Click "Enroll now" to sign up.    
+
+
+   
 
 
 
